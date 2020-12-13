@@ -1,0 +1,13 @@
+# ninja log v5
+1	405	629472406	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+405	943	629472406	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
+1	388	629472676	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+388	618	629472677	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
+1	116	629472741	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+116	349	629472742	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
+1	120	629472767	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+120	337	629472768	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
+0	191	629472794	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+192	418	629472794	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
+1	382	629472832	FactorialCalculator/CMakeFiles/FactorialCalculator.dir/FactorialCalculator.c.obj	59f0adad2a5412dd
+382	597	629472832	FactorialCalculator/FactorialCalculator.exe	bc9d37d93d082620
